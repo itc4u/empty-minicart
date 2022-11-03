@@ -1,4 +1,4 @@
-# Empty Mini Cart Module
+# Empty Mini Cart Module for Magento 2.4
 This Extension made from reference https://magento.stackexchange.com/questions/184501/how-to-add-empty-cart-button-to-minicart/361402#361402 \
 
 Execute this commands: \
